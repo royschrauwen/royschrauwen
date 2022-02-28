@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 
 ### My WakaTime Weekly Stats
 <!--START_SECTION:waka-->
+
 ```text
-HTML         5 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.20 % 
-CSS          4 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-SQL          4 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Markdown     4 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-JavaScript   3 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+JavaScript   6 hrs 37 mins   ██████████▒░░░░░░░░░░░░░░   41.58 %
+HTML         3 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+SQL          2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+CSS          1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Markdown     1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+PHP          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
+
 <!--END_SECTION:waka-->
