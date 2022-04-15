@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-PHP          12 hrs 48 mins  ███████████████████▓░░░░░   79.21 %
-CSS          3 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+PHP          12 hrs 10 mins  ██████████████████░░░░░░░   72.28 %
+CSS          4 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
