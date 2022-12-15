@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       1 hr 36 mins    █████████████░░░░░░░░░░░░   52.46 %
-Kotlin           1 hr 9 mins     █████████▒░░░░░░░░░░░░░░░   37.88 %
-Markdown         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Groovy           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+SCSS             2 hrs 32 mins   ███████████░░░░░░░░░░░░░░   43.66 %
+Kotlin           1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   19.97 %
+TypeScript       1 hr 5 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
+HTML             46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Markdown         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Groovy           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
