@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                 26 hrs 16 mins  ███████████████████▒░░░░░   77.33 %
-XML                    5 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-Java                   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Kotlin                 25 hrs 3 mins   ██████████████████░░░░░░░   72.29 %
+XML                    5 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
+PHP                    2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Java                   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 Gradle                 23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Properties             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Groovy                 6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Properties             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
