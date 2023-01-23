@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin       13 hrs 13 mins  ███████████████████▓░░░░░   78.16 %
-XML          3 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Java         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Groovy       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Gradle       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Kotlin       15 hrs 12 mins  ████████████████████░░░░░   80.52 %
+XML          3 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Blazor       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
