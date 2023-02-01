@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           2 hrs 38 mins   ███████████████▒░░░░░░░░░   61.21 %
-C#               38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Other            29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+C#               37 mins         ███████████████▒░░░░░░░░░   60.95 %
+Other            24 mins         █████████▓░░░░░░░░░░░░░░░   39.05 %
 ```
 
 <!--END_SECTION:waka-->
