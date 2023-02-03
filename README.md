@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#               50 mins         ███████▓░░░░░░░░░░░░░░░░░   31.17 %
-Other            45 mins         ███████░░░░░░░░░░░░░░░░░░   28.40 %
+Blazor           2 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   31.99 %
+Other            1 hr 20 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
 ```
 
 <!--END_SECTION:waka-->
