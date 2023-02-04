@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Blazor           2 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   31.99 %
-Other            1 hr 20 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+HTML             2 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
+Blazor           2 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Java             1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+TypeScript       1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Other            1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
 ```
 
 <!--END_SECTION:waka-->
