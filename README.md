@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       13 hrs 7 mins   ████████░░░░░░░░░░░░░░░░░   32.53 %
-HTML             4 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-C#               3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Binary           3 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Blazor           3 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-SCSS             2 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+TypeScript       13 hrs 7 mins   ████████▓░░░░░░░░░░░░░░░░   35.17 %
+HTML             4 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+C#               3 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Binary           3 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+SCSS             2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+JSON             1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
