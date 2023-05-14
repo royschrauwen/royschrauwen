@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#           3 hrs 19 mins   █████████████▒░░░░░░░░░░░   53.64 %
-TypeScript   2 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.20 %
-HTML         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-ShaderLab    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+C#   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
