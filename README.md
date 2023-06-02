@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Binary           10 hrs 12 mins  ██████░░░░░░░░░░░░░░░░░░░   24.63 %
-C#               10 hrs 12 mins  ██████░░░░░░░░░░░░░░░░░░░   24.63 %
-TypeScript       7 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
-XAML             4 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-HTML             2 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Binary           10 hrs 10 mins  ██████░░░░░░░░░░░░░░░░░░░   23.49 %
+C#               9 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
+TypeScript       7 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
+XAML             6 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+HTML             2 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
 ```
 
 <!--END_SECTION:waka-->
