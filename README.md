@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### My WakaTime Weekly Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Binary           10 hrs 10 mins  ██████░░░░░░░░░░░░░░░░░░░   23.49 %
 C#               9 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
 TypeScript       7 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
