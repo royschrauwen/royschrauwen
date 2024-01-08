@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              10 hrs 32 mins  ██████████░░░░░░░░░░░░░░░   40.65 %
-TypeScript        9 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   36.83 %
-HTML              1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-YAML              54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-SCSS              41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+TypeScript        12 hrs 6 mins   ███████████▓░░░░░░░░░░░░░   47.21 %
+Java              7 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+HTML              1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+YAML              54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+SCSS              41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
