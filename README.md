@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++          21 mins         ███████████████▓░░░░░░░░░   62.04 %
-C            9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
-ObjectiveC   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
