@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML          1 hr 17 mins    ████████████▒░░░░░░░░░░░░   49.88 %
+TypeScript    42 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 %
+SCSS          34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
