@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   59 mins         █████████████████▓░░░░░░░   70.13 %
-Gherkin      15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-HTML         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+C#         4 mins          █████████████████████████   99.66 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
