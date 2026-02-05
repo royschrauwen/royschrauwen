@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        4 hrs 47 mins   █████████████████████░░░░   83.48 %
-.env file         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Gherkin           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-YAML              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-JSON              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+TypeScript        4 hrs 55 mins   █████████████████░░░░░░░░   68.66 %
+Java              1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+.env file         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+YAML              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Gherkin           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
